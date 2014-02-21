@@ -1,0 +1,8 @@
+name: RepairSystem
+main: com.madpcgaming.RepairSystem
+version: ${version}
+commands:
+  debug:
+    description: Turns on debug
+    usage: /debugrs
+		
